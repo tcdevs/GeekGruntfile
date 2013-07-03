@@ -14,7 +14,7 @@ Have a bug? Please create an issue here on GitHub!
 
 https://github.com/tcdevs/GeekGruntfile/issues
 
-Authors
+##Authors
 
 **tcdevs**
 
