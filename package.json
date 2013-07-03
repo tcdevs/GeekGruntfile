@@ -1,0 +1,16 @@
+{
+  "name": "TCDoc",
+  "version": "0.0.1",
+  "description": "TCDoc webapp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jano Meijer",
+  "license": "Copyright",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib": "~0.7.0",
+    "grunt-grunticon": "~0.3.3"
+  }
+}
